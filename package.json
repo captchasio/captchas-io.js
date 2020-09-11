@@ -1,0 +1,18 @@
+{
+    "name": "captchas-io",
+    "version": "1.0.11",
+    "description": "A wrapper for the CAPTCHAs.IO API",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "captcha"
+    ],
+    "author": "CAPTCHAs.IO",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/captchasio/captchas-io.js.git"
+    }
+}
