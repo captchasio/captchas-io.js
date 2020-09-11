@@ -4,7 +4,7 @@ Post a captcha to the captchas.io service, then polls until the captcha is decod
 
 ## Installation
 
-npm install azcaptcha
+npm install captchas-io
 
 ## Usage
 
